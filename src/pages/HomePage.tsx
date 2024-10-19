@@ -1,4 +1,3 @@
-import React from "react";
 import landingImg from "../assets/landing.png";
 import appDownloadImg from "../assets/appDownload.png";
 const HomePage = () => {

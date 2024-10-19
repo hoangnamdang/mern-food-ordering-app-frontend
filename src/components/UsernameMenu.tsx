@@ -8,7 +8,6 @@ import {
 import { Separator } from "@/components/ui/separator";
 import { useAuth0 } from "@auth0/auth0-react";
 import { CircleUserRound } from "lucide-react";
-import React from "react";
 import { Link } from "react-router-dom";
 
 const UsernameMenu = () => {
